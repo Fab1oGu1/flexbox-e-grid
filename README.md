@@ -16,4 +16,4 @@ a página ao lado que possui:
 anterior, implemente na sua
 página:
 Um menu lateral na
-esquerdo.
+esquerda.
