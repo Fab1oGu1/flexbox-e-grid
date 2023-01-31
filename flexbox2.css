@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    height: 50px;
+    background-color: royalblue;
+    
+}
+
+.logo{
+    align-self: center;
+}
+
+.button{
+    align-self: center;
+}
+
+.footer{
+    display: flex;
+    background-color: #3250AB;
+    color: #000;
+    justify-content: space-around;
+    margin: 1px;
+}
+
+.wrapper{
+    border: 1px solid #1f2846;
+}
