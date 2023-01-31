@@ -11,3 +11,9 @@ a página ao lado que possui:
 ○ Header
 ○ Conteúdo
 ○ Footer
+
+3) Utilizando o site do exercício
+anterior, implemente na sua
+página:
+Um menu lateral na
+esquerdo.
